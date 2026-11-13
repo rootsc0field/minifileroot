@@ -1,1 +1,3 @@
 bunu ne amaçla kullanırsınız bilmeyen arkadaşlar için kısaca açıklayayım örneğin bir siteye girdiğiniz fakat sitedeki bazı dosyalara erişim izniniz yok yani dosya içeriğini değiştiremiyorsunuzdur veya içini açıp okumanıza izin vermiyordur işte bu script burda devreye girip belirttiğiniz dosyanın chmod ayarlarını yanı yetki ayarlarını değiştirerek okumanızı veya değiştirmenizi sağlıyor.
+
+DİPNOT:dosya ismini r00t.php olarak bırakın!!!
